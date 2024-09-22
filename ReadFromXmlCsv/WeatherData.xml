@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<WeatherReport>
+	<City>
+		<Name>London</Name>
+		<Temperature>14</Temperature>
+		<Unit>Celsius</Unit>
+	</City>
+	<City>
+		<Name>New York</Name>
+		<Temperature>68</Temperature>
+		<Unit>Fahrenheit</Unit>
+	</City>
+</WeatherReport>
